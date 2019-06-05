@@ -3,7 +3,9 @@
 
 All credit goes to @zr0iq(mhacking) and @Hawaii_Beach(esx_doorlock)
 
-Requires 'mhacking' and 'esx'.
+Huge thanks to @ragingNaClholic with Fresh Start RP for all of his help.
+
+**Requires 'mhacking' and 'esx'.**
 
 This resource allows one to hack all locked doors within esx_doorlock. 
 
