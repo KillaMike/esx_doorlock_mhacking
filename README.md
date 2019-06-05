@@ -3,7 +3,7 @@
 
 All credit goes to @zr0iq(mhacking) and @Hawaii_Beach(esx_doorlock)
 
-Huge thanks to @RagingNaClholic with Fresh Start RP for all of his help.
+Huge thanks to @RagingNaClholic with Fresh Start RP(https://discord.gg/xqVTUpw) for all of his help.
 
 **Requires 'mhacking' and 'esx'.**
 
