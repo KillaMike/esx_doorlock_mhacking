@@ -38,7 +38,7 @@ function IsAuthorized(jobName, doorID)
 		end
 	end
 
-	return false
+	return true
 end
 
 
